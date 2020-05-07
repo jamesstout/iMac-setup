@@ -1,4 +1,6 @@
-# David's Mac OSX v10.15 macOS Catalina Setup Guide
+# James's macOS v10.15 macOS Catalina Setup Guide
+
+(forked from [David's Mac OS X 10.15 MacOS Catalina Setup Guide](https://github.com/davidwolfpaw/macbook-setup))
 
 Blatantly stealing the idea from Kevin Elliott's [El Capitan Guide](https://gist.github.com/kevinelliott/e12aa642a8388baf2499), I've decided to document as much as I can of my new computer setup guide. There's a lot to do when refreshing a computer or setting one up from scratch, but a bit of planning reduces a ton of pain later on. :relaxed:
 
@@ -10,12 +12,23 @@ If there are steps that you've noticed that I'm clearly missing, please let me k
 
 I generally am doing this because I'm reformatting an old computer because I have a problem (usually the computer, always me). I sometimes forget that there are more than files to backup, since not everything syncs perfectly. Here's what I need to remember to sync and where they live.
 
-- Calibre - Library is saved in user files, backup from computer
 - Chrome - OneTab should be bookmarked, and the rest Chrome syncs itself
 - Firefox - Firefox syncs itself, sync extensions like Privacy Badger manually
 - iTerm2 - Syncing preferences to Dropbox
+- CodeBox - Syncing to Dropbox
 - Sublime Text Preferences - PackageSync creates a zip for me. Save current workspace as well to Dropbox
-- Transmit Favorites - Must be manually synced for me using their export tool, or use Panic Sync
+- Transmit/Coda Favorites - use Panic Sync
+- Yojimbo - symlinked to Dropbox
+- Keyboard Maestro - Syncing to Dropbox
+- Day One - Syncing to Dropbox
+- Alfred - Syncing to Dropbox
+
+### Settings in Application Support (hmmm)
+
+- Hazel
+- Tower (deactivate on old iMac)
+- BetterTouchTool
+- MobileSync
 
 
 ## Install Basic Software
@@ -23,10 +36,265 @@ I generally am doing this because I'm reformatting an old computer because I hav
 This is the software that I use on a very regular basis. Not all software is listed, as this would be one of the most time consuming to keep up to date.
 
 ### Install from App Store/Web
-- [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12)
-- [Giphy Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984?mt=12)
 - [Pixelmator](https://itunes.apple.com/us/app/pixelmator/id407963104?mt=12)
 - [VS Code](https://code.visualstudio.com/download)
+Vanilla
+Caffeine
+iStat Menus
+Backblaze - migrate backup
+Hammerspoon
+ChronoSync - where are containers/tasks?
+Adium - chat logs
+Fabric
+Kaleidoscope
+Versions
+CCC
+Adobe Creative Cloud
+GeekTool - where are scripts?
+1Blocker
+1Password 7
+A Better Finder Attributes 6
+ASUS Device Discovery
+AVItools
+Adium
+Adobe Bridge 2020
+Adobe Creative Cloud
+Adobe Lightroom CC
+Adobe Lightroom Classic
+Adobe Photoshop 2020
+Adobe Premiere Rush
+Adobe XD
+Alfred 4
+Amphetamine
+Aperture
+AppCleaner
+AppFresh
+Araxis Folder Size Explorer
+Archiver
+Asset Catalog Creator Pro
+Asset Catalog Tinkerer
+Audacity
+Audio Hijack
+Backblaze
+BackupLoupe
+Bartender 3
+Bear
+BetterTouchTool
+Bitcoin Ticker TTM
+Blackmagic Disk Speed Test
+Bodega
+Boom 3D
+Caffeine
+Cakebrew
+Carbon Copy Cloner
+Cardhop
+Charles
+Chicken
+ChronoSync
+Cisco Jabber
+Citrix Workspace
+Clean Text Menu
+Cleaner for Xcode
+CloudApp
+CocoaPacketAnalyzer
+Coda 2
+CodeBox
+CronniX
+Crunch
+DB Browser for SQLite
+DaisyDisk
+Day One
+Discord
+Divvy
+Dropbox
+Dupin
+Duplicate Detective 2
+Duplicates Finder
+EasyFind
+Etcher
+EtreCheckPro
+Fabric
+Fantastical 2
+Farrago
+FauxPas
+File Viewer
+FileBot
+Firefox
+Fission
+Flare 2
+Flux
+Franz
+Front and Center
+GPG Keychain
+GarageBand
+GeekTool
+Geekbench 5
+GiftttDy.scptd
+Google Chrome
+GrandPerspective
+Grappler
+Hammerspoon
+HandBrake
+Hex Fiend
+Iconizer
+Image Capture
+Image Resizer Toolbox
+ImageAlpha
+ImageOptim
+JPEGmini Lite
+JSON Accelerator
+Kaleidoscope
+Keybase
+Keyboard Cleaner
+Keyboard Maestro
+Keynote
+LaunchControl
+Launchpad
+LilyView
+Linkinus
+Logic Pro X
+MKVtools
+MP4tools
+MacPAR deLuxe
+Mail Plugin Manager
+MailSteward
+MailStewardPro
+MakeMKV
+Marked 2
+MarsEdit
+MediaInfo
+Memory Clean 3
+MetaDoctor
+Micro Snitch
+Microsoft Excel
+Microsoft OneNote
+Microsoft Outlook
+Microsoft PowerPoint
+Microsoft Silverlight -> /Library/Internet Plug-Ins/Silverlight.plugin/Contents/Resources/Silverlight Preferences
+Microsoft Word
+MultiMarkdown Composer
+MyCrypto
+MyHarmony
+NetSpot
+NetworkKitX
+Objective-Clean
+OneDrive
+OnyX
+OpenVPN
+Optimal Layout
+Oyster
+PDFpen
+Pacifist
+Pages
+Paste
+Photo Batch
+PhotoNinja_1.3.3c
+PhotoSweeper
+PhotoSync
+Pixelmator
+Platypus
+Postico
+Postman
+PrefEdit
+Preview
+Progressive Downloader
+Quick Batcher
+Radio Silence
+Radium.localized
+RegexMatch
+Resizer
+Rubbernet
+SMART Utility
+SQLPro for SQLite
+SUBtools
+Screenium 3
+Screens 4
+Screens Connect
+Screenshot Creator
+Script Debugger
+Sequel Pro
+Sherlock
+Shush
+SimPholders
+SizeUp
+Skype
+Slack
+Slender
+Smarts
+Snapheal
+Soulver
+SoundSource
+Spark
+Spotify
+Steam
+Sublime Text
+SuperDuper!
+Suspicious Package
+SynologyAssistant
+TeaCode
+Telegram
+Termius
+TextExpander
+TextMate
+The Unarchiver
+Things3
+TinkerTool System
+Todoist
+Tower
+TrackSift 2
+Transmission
+Transmit
+Tweetbot
+Ulysses
+Unclutter
+Unison
+VLC
+VMware Fusion
+VOX
+Vanilla
+Versions
+Video Rotate
+VideoMonkey
+VirtualBox
+Visual Studio Code
+VisualGrep
+Voila
+VyprVPN
+Whalebird
+What's Keeping Me
+Wireshark
+WordService
+XLD
+Yojimbo
+adbLink
+calibre
+coconutBattery
+coconutID
+diffpdf
+djay
+iExplorer
+iMazing HEIC Converter
+iPhone Backup Extractor
+iPulse
+iRamDisk
+iStat Menus
+iStat Server
+iStat View
+iTerm
+namebench
+nvALT
+smcFanControl
+unDock
+xScope
+zoom.us
+
+
+### JPMC Software
+Zoom
+Jabber
+Citrix
+
+
 
 ### Homebrew
 ##### Run Xcode and accept the license
