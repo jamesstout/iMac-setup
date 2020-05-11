@@ -1,0 +1,64 @@
+1Blocker
+Aperture
+Araxis Folder Size Explorer
+Asset Catalog Creator Pro
+ASUS Device Discovery
+Bear
+Bitcoin Ticker TTM
+Blackmagic Disk Speed Test
+Caffeine
+Clean Text Menu
+Cleaner for Xcode
+CloudApp
+CodeBox
+Day One
+djay
+Duplicate Detective 2
+Duplicate Detective
+Duplicates Finder
+File Viewer
+Flare 2
+Image Resizer Toolbox
+iMazing HEIC Converter
+iPulse
+iRamDisk
+iStat View
+JPEGmini Lite
+JSON Accelerator
+LilyView
+Linkinus
+Logic Pro X
+MediaInfo
+MetaDoctor
+MultiMarkdown Composer
+NetworkKitX
+OneDrive
+Oyster
+Paste
+PhotoSweeper
+Pixelmator
+RegexMatch
+Resizer
+Screenium 3
+Screenshot Creator
+Shush
+Slack
+Slender
+Smarts
+Snapheal
+Soulver
+Spark
+Telegram
+Termius
+The Unarchiver
+Things3
+TrackSift 2
+Tweetbot
+Twitter
+Ulysses
+Unclutter
+unDock
+VisualGrep
+Voila
+VOX
+Xcode

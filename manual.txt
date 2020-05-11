@@ -1,0 +1,149 @@
+1Password 7
+A Better Finder Attributes 6
+adbLink
+Adium
+Adium - chat logs
+Adobe Bridge 2020
+Adobe Creative Cloud
+Adobe Creative Cloud
+Adobe Lightroom CC
+Adobe Lightroom Classic
+Adobe Photoshop 2020
+Adobe Premiere Rush
+Adobe XD
+Alfred 4
+Amphetamine
+AppCleaner
+AppFresh
+Archiver
+Asset Catalog Tinkerer
+Audacity
+Audio Hijack
+AVItools
+Backblaze
+Backblaze - migrate backup
+BackupLoupe
+Bartender 3
+BetterTouchTool
+Bodega
+Boom 3D
+Caffeine
+calibre
+Carbon Copy Cloner
+Cardhop
+CCC
+Chicken
+ChronoSync
+ChronoSync - where are containers/tasks?
+Cisco Jabber
+Citrix Workspace
+CocoaPacketAnalyzer
+coconutID
+Coda 2
+CronniX
+DaisyDisk
+DB Browser for SQLite
+diffpdf
+Discord
+Divvy
+Dupin
+Etcher
+EtreCheckPro
+Fabric
+Fantastical 2
+Farrago
+FauxPas
+FileBot
+Fission
+Flux
+Franz
+Geekbench 5
+GeekTool
+GeekTool - where are scripts?
+GPG Keychain
+GrandPerspective
+Grappler
+Hammerspoon
+HandBrake
+Hex Fiend
+Iconizer
+iExplorer
+ImageAlpha
+iPhone Backup Extractor
+iStat Menus
+iStat Menus
+iStat Server
+Kaleidoscope
+Keybase
+Keyboard Cleaner
+Keyboard Maestro
+LaunchControl
+Mail Plugin Manager
+MailSteward
+MailStewardPro
+MakeMKV
+Marked 2
+MarsEdit
+Memory Clean 3
+Micro Snitch
+Microsoft Excel
+Microsoft OneNote
+Microsoft Outlook
+Microsoft PowerPoint
+Microsoft Word
+MKVtools
+MP4tools
+MyCrypto
+MyHarmony
+namebench
+NetSpot
+nvALT
+Objective-Clean
+OnyX
+Optimal Layout
+Pacifist
+PDFpen
+PhotoNinja_1.3.3c
+PhotoSync
+Postico
+PrefEdit
+Progressive Downloader
+Quick Batcher
+Radio Silence
+Radium.localized
+Rubbernet
+Screens 4
+Screens Connect
+Script Debugger
+Sherlock
+SimPholders
+SizeUp
+Skype
+SMART Utility
+smcFanControl
+SoundSource
+Spotify
+SQLPro for SQLite
+SUBtools
+SuperDuper!
+SynologyAssistant
+TeaCode
+TextExpander
+TextMate
+TinkerTool System
+Tower
+Transmission
+Unison
+Vanilla
+Versions
+Video Rotate
+VideoMonkey
+Visual Studio Code
+VMware Fusion
+VyprVPN
+What's Keeping Me
+WordService
+XLD
+xScope
+Yojimbo
+zoom.us

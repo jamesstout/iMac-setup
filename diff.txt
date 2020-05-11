@@ -1,0 +1,243 @@
+1a2,16
+> 1Password 7
+> A Better Finder Attributes 6
+> adbLink
+> Adium
+> Adium - chat logs
+> Adobe Bridge 2020
+> Adobe Creative Cloud
+> Adobe Creative Cloud
+> Adobe Lightroom CC
+> Adobe Lightroom Classic
+> Adobe Photoshop 2020
+> Adobe Premiere Rush
+> Adobe XD
+> Alfred 4
+> Amphetamine
+2a18,19
+> AppCleaner
+> AppFresh
+3a21
+> Archiver
+4a23
+> Asset Catalog Tinkerer
+5a25,31
+> Audacity
+> Audio Hijack
+> AVItools
+> Backblaze
+> Backblaze - migrate backup
+> BackupLoupe
+> Bartender 3
+6a33
+> BetterTouchTool
+8a36,37
+> Bodega
+> Boom 3D
+9a39,50
+> Caffeine
+> Cakebrew
+> calibre
+> Carbon Copy Cloner
+> Cardhop
+> CCC
+> Charles
+> Chicken
+> ChronoSync
+> ChronoSync - where are containers/tasks?
+> Cisco Jabber
+> Citrix Workspace
+12a54,57
+> CocoaPacketAnalyzer
+> coconutBattery
+> coconutID
+> Coda 2
+13a59,61
+> CronniX
+> Crunch
+> DaisyDisk
+14a63,66
+> DB Browser for SQLite
+> diffpdf
+> Discord
+> Divvy
+15a68,69
+> Dropbox
+> Dupin
+17d70
+< Duplicate Detective
+18a72,79
+> EasyFind
+> Etcher
+> EtreCheckPro
+> Fabric
+> Fabric
+> Fantastical 2
+> Farrago
+> FauxPas
+19a81,83
+> FileBot
+> Firefox
+> Fission
+20a85,103
+> Flux
+> Franz
+> Front and Center
+> GarageBand
+> Geekbench 5
+> GeekTool
+> GeekTool - where are scripts?
+> GiftttDy.scptd
+> Google Chrome
+> GPG Keychain
+> GrandPerspective
+> Grappler
+> Hammerspoon
+> Hammerspoon
+> HandBrake
+> Hex Fiend
+> Iconizer
+> iExplorer
+> Image Capture
+21a105,106
+> ImageAlpha
+> ImageOptim
+22a108
+> iPhone Backup Extractor
+24a111,113
+> iStat Menus
+> iStat Menus
+> iStat Server
+25a115
+> iTerm
+27a118,125
+> Kaleidoscope
+> Kaleidoscope
+> Keybase
+> Keyboard Cleaner
+> Keyboard Maestro
+> Keynote
+> LaunchControl
+> Launchpad
+30a129,135
+> MacPAR deLuxe
+> Mail Plugin Manager
+> MailSteward
+> MailStewardPro
+> MakeMKV
+> Marked 2
+> MarsEdit
+31a137
+> Memory Clean 3
+32a139,146
+> Micro Snitch
+> Microsoft Excel
+> Microsoft OneNote
+> Microsoft Outlook
+> Microsoft PowerPoint
+> Microsoft Word
+> MKVtools
+> MP4tools
+33a148,151
+> MyCrypto
+> MyHarmony
+> namebench
+> NetSpot
+34a153,154
+> nvALT
+> Objective-Clean
+35a156,158
+> OnyX
+> OpenVPN
+> Optimal Layout
+36a160,161
+> Pacifist
+> Pages
+37a163,165
+> PDFpen
+> Photo Batch
+> PhotoNinja_1.3.3c
+38a167
+> PhotoSync
+39a169,177
+> Platypus
+> Postico
+> Postman
+> PrefEdit
+> Preview
+> Progressive Downloader
+> Quick Batcher
+> Radio Silence
+> Radium.localized
+41a180
+> Rubbernet
+42a182,183
+> Screens 4
+> Screens Connect
+43a185,187
+> Script Debugger
+> Sequel Pro
+> Sherlock
+44a189,191
+> SimPholders
+> SizeUp
+> Skype
+46a194
+> SMART Utility
+47a196
+> smcFanControl
+49a199
+> SoundSource
+50a201,209
+> Spotify
+> SQLPro for SQLite
+> Steam
+> Sublime Text
+> SUBtools
+> SuperDuper!
+> Suspicious Package
+> SynologyAssistant
+> TeaCode
+52a212,213
+> TextExpander
+> TextMate
+54a216,218
+> TinkerTool System
+> Todoist
+> Tower
+55a220,221
+> Transmission
+> Transmit
+57d222
+< Twitter
+61,64c226,248
+< VisualGrep.app
+< Voila.app
+< VOX.app
+< Xcode.app
+\ No newline at end of file
+---
+> Unison
+> Vanilla
+> Vanilla
+> Versions
+> Versions
+> Video Rotate
+> VideoMonkey
+> VirtualBox
+> Visual Studio Code
+> VisualGrep
+> VLC
+> VMware Fusion
+> Voila
+> VOX
+> VyprVPN
+> Whalebird
+> What's Keeping Me
+> Wireshark
+> WordService
+> XLD
+> xScope
+> Yojimbo
+> zoom.us
+\ No newline at end of file

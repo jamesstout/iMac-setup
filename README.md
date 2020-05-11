@@ -1,4 +1,4 @@
-# James's macOS v10.15 macOS Catalina Setup Guide
+# James's macOS v10.15 Catalina Setup Guide
 
 (forked from [David's Mac OS X 10.15 MacOS Catalina Setup Guide](https://github.com/davidwolfpaw/macbook-setup))
 
@@ -12,24 +12,23 @@ If there are steps that you've noticed that I'm clearly missing, please let me k
 
 I generally am doing this because I'm reformatting an old computer because I have a problem (usually the computer, always me). I sometimes forget that there are more than files to backup, since not everything syncs perfectly. Here's what I need to remember to sync and where they live.
 
-- Chrome - OneTab should be bookmarked, and the rest Chrome syncs itself
-- Firefox - Firefox syncs itself, sync extensions like Privacy Badger manually
-- iTerm2 - Syncing preferences to Dropbox
-- CodeBox - Syncing to Dropbox
-- Sublime Text Preferences - PackageSync creates a zip for me. Save current workspace as well to Dropbox
-- Transmit/Coda Favorites - use Panic Sync
-- Yojimbo - symlinked to Dropbox
-- Keyboard Maestro - Syncing to Dropbox
-- Day One - Syncing to Dropbox
-- Alfred - Syncing to Dropbox
+* Chrome - OneTab should be bookmarked, and the rest Chrome syncs itself
+* Firefox - Firefox syncs itself, sync extensions like Privacy Badger manually
+* iTerm2 - Syncing preferences to Dropbox
+* CodeBox - Syncing to Dropbox
+* Sublime Text Preferences - PackageSync creates a zip for me. Save current workspace as well to Dropbox
+* Transmit/Coda Favorites - use Panic Sync
+* Yojimbo - symlinked to Dropbox
+* Keyboard Maestro - Syncing to Dropbox
+* Day One - Syncing to Dropbox
+* Alfred - Syncing to Dropbox
 
 ### Settings in Application Support (hmmm)
 
-- Hazel
-- Tower (deactivate on old iMac)
-- BetterTouchTool
-- MobileSync
-
+* Hazel
+* Tower (deactivate on old iMac)
+* BetterTouchTool
+* MobileSync
 
 ## Install Basic Software
 
@@ -171,7 +170,6 @@ This is the software that I use on a very regular basis. Not all software is lis
 * Microsoft OneNote
 * Microsoft Outlook
 * Microsoft PowerPoint
-* Microsoft Silverlight -> /Library/Internet Plug-Ins/Silverlight.plugin/Contents/Resources/Silverlight Preferences
 * Microsoft Word
 * MultiMarkdown Composer
 * MyCrypto
@@ -448,6 +446,9 @@ composer global require overtrue/phplint
 composer global require friendsofphp/php-cs-fixer
 ```
 
+#### rbenv
+Which version, which gems?
+
 #### Oh My ZSH!
 - Install a fancy zsh framework for funtimes
 ```
@@ -455,6 +456,10 @@ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/i
 ```
 - Make zsh the default shell for the current user with `chsh -s $(which zsh)`
 - Setup changes to the .zshrc file to config for our usage
+
+### Dotfiles
+
+TODO
 
 #### Make some aliases
 My current zsh profile with my aliases is backed up with Mackup now, but just in case these are needed

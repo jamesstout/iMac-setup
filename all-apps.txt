@@ -1,0 +1,248 @@
+1Blocker
+1Password 7
+A Better Finder Attributes 6
+adbLink
+Adium
+Adium - chat logs
+Adobe Bridge 2020
+Adobe Creative Cloud
+Adobe Creative Cloud
+Adobe Lightroom CC
+Adobe Lightroom Classic
+Adobe Photoshop 2020
+Adobe Premiere Rush
+Adobe XD
+Alfred 4
+Amphetamine
+Aperture
+AppCleaner
+AppFresh
+Araxis Folder Size Explorer
+Archiver
+Asset Catalog Creator Pro
+Asset Catalog Tinkerer
+ASUS Device Discovery
+Audacity
+Audio Hijack
+AVItools
+Backblaze
+Backblaze - migrate backup
+BackupLoupe
+Bartender 3
+Bear
+BetterTouchTool
+Bitcoin Ticker TTM
+Blackmagic Disk Speed Test
+Bodega
+Boom 3D
+Caffeine
+Caffeine
+Cakebrew
+calibre
+Carbon Copy Cloner
+Cardhop
+CCC
+Charles
+Chicken
+ChronoSync
+ChronoSync - where are containers/tasks?
+Cisco Jabber
+Citrix Workspace
+Clean Text Menu
+Cleaner for Xcode
+CloudApp
+CocoaPacketAnalyzer
+coconutBattery
+coconutID
+Coda 2
+CodeBox
+CronniX
+Crunch
+DaisyDisk
+Day One
+DB Browser for SQLite
+diffpdf
+Discord
+Divvy
+djay
+Dropbox
+Dupin
+Duplicate Detective 2
+Duplicates Finder
+EasyFind
+Etcher
+EtreCheckPro
+Fabric
+Fabric
+Fantastical 2
+Farrago
+FauxPas
+File Viewer
+FileBot
+Firefox
+Fission
+Flare 2
+Flux
+Franz
+Front and Center
+GarageBand
+Geekbench 5
+GeekTool
+GeekTool - where are scripts?
+GiftttDy.scptd
+Google Chrome
+GPG Keychain
+GrandPerspective
+Grappler
+Hammerspoon
+Hammerspoon
+HandBrake
+Hex Fiend
+Iconizer
+iExplorer
+Image Capture
+Image Resizer Toolbox
+ImageAlpha
+ImageOptim
+iMazing HEIC Converter
+iPhone Backup Extractor
+iPulse
+iRamDisk
+iStat Menus
+iStat Menus
+iStat Server
+iStat View
+iTerm
+JPEGmini Lite
+JSON Accelerator
+Kaleidoscope
+Kaleidoscope
+Keybase
+Keyboard Cleaner
+Keyboard Maestro
+Keynote
+LaunchControl
+Launchpad
+LilyView
+Linkinus
+Logic Pro X
+MacPAR deLuxe
+Mail Plugin Manager
+MailSteward
+MailStewardPro
+MakeMKV
+Marked 2
+MarsEdit
+MediaInfo
+Memory Clean 3
+MetaDoctor
+Micro Snitch
+Microsoft Excel
+Microsoft OneNote
+Microsoft Outlook
+Microsoft PowerPoint
+Microsoft Word
+MKVtools
+MP4tools
+MultiMarkdown Composer
+MyCrypto
+MyHarmony
+namebench
+NetSpot
+NetworkKitX
+nvALT
+Objective-Clean
+OneDrive
+OnyX
+OpenVPN
+Optimal Layout
+Oyster
+Pacifist
+Pages
+Paste
+PDFpen
+Photo Batch
+PhotoNinja_1.3.3c
+PhotoSweeper
+PhotoSync
+Pixelmator
+Platypus
+Postico
+Postman
+PrefEdit
+Preview
+Progressive Downloader
+Quick Batcher
+Radio Silence
+Radium.localized
+RegexMatch
+Resizer
+Rubbernet
+Screenium 3
+Screens 4
+Screens Connect
+Screenshot Creator
+Script Debugger
+Sequel Pro
+Sherlock
+Shush
+SimPholders
+SizeUp
+Skype
+Slack
+Slender
+SMART Utility
+Smarts
+smcFanControl
+Snapheal
+Soulver
+SoundSource
+Spark
+Spotify
+SQLPro for SQLite
+Steam
+Sublime Text
+SUBtools
+SuperDuper!
+Suspicious Package
+SynologyAssistant
+TeaCode
+Telegram
+Termius
+TextExpander
+TextMate
+The Unarchiver
+Things3
+TinkerTool System
+Todoist
+Tower
+TrackSift 2
+Transmission
+Transmit
+Tweetbot
+Ulysses
+Unclutter
+unDock
+Unison
+Vanilla
+Vanilla
+Versions
+Versions
+Video Rotate
+VideoMonkey
+VirtualBox
+Visual Studio Code
+VisualGrep
+VLC
+VMware Fusion
+Voila
+VOX
+VyprVPN
+Whalebird
+What's Keeping Me
+Wireshark
+WordService
+XLD
+xScope
+Yojimbo
+zoom.us
