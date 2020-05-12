@@ -316,60 +316,304 @@ brew doctor
 ```
 brew install cask
 brew tap homebrew/cask-fonts
+
+## maybe
+caskroom/fonts
+homebrew/bundle
+homebrew/cask
+homebrew/cask-versions
+homebrew/core
+homebrew/services
+kateinoigakukun/tap
+
 ```
 
 ##### Install common applications via Homebrew
 _Yes, you can run this all as one `brew install` command followed by the list of applications, but some require additional input or could have other issues installing, so I run them separately to give an easy way to continue if needed_
 
 ```
-brew install arp-scan
+brew install ack
+brew install aircrack-ng
+brew install ansiweather
+brew install ant
+brew install aom
+brew install apktool
+brew install apr
+brew install apr-util
+brew install archey
+brew install argon2
+brew install asciinema
+brew install aspell
+brew install autobench
+brew install autoconf
+brew install autogen
+brew install automake
+brew install bandwhich
+brew install bash
+brew install bash-completion@2
+brew install bashdb
 brew install bat
-brew install brew-cask-completion
-brew install cask
+brew install bdw-gc
+brew install bench
+brew install bfg
+brew install bgrep
+brew install binutils
+brew install brotli
+brew install bwm-ng
+brew install c-ares
+brew install cabextract
+brew install cadaver
+brew install carthage
+brew install chromaprint
+brew install clang-format
+brew install class-dump
+brew install cloc
 brew install cmake
 brew install composer
-brew install curl
+brew install coreutils
+brew install cunit
+brew install curl-openssl
+brew install dark-mode
 brew install diff-so-fancy
-brew install eslint
-brew install fd
-brew install fzf
-brew install ghostscript
-brew install git
-brew install highlight
-brew install htop
-brew install imagemagick
-brew install mackup
-brew install markdown
-brew install ncdu
-brew install nmap
-brew install noti
-brew install openjdk
-brew install pandoc
-brew install phplint
-brew install pipenv
-brew install prettyping
-brew install vassh
-brew install vim
-brew install webtorrent-cli
-brew install wget
-brew install wp-cli
-brew install wp-cli-completion
-brew install zsh
-brew install zsh-completions
-brew install zsh-syntax-highlighting
-
-brew install awscli
+brew install diffoscope
+brew install diffutils
+brew install dive
+brew install docbook
 brew install docbook-xsl
-brew install gnupg
+brew install doctl
+brew install doxygen
+brew install dssim
+brew install exif
+brew install exiftool
+brew install fakeroot
+brew install fdk-aac
+brew install fdupes
+brew install ffind
+brew install ffmpeg
+brew install findutils
+brew install flac
+brew install fmt
+brew install fontconfig
+brew install fping
+brew install freetds
+brew install freetype
+brew install frei0r
+brew install fribidi
+brew install gawk
+brew install gdbm
+brew install gettext
+brew install ghostscript
+brew install giflib
+brew install gifsicle
+brew install git
+brew install git-extras
+brew install git-lfs
+brew install git-quick-stats
+brew install glances
+brew install glib
+brew install gmp
+brew install gnu-sed
+brew install gnu-tar
+brew install gnutls
 brew install go
-brew install hopenpgp-tools
-brew install imageoptim-cli
-brew install lastpass-cli --with-pinentry --with-doc
+brew install graphite2
+brew install grc
+brew install grep
+brew install guile@2
+brew install gzip
+brew install harfbuzz
+brew install hashcat
+brew install hh
+brew install hstr
+brew install htop
+brew install httperf
+brew install httrack
+brew install hub
+brew install iblinter
+brew install icu4c
+brew install iftop
+brew install ilmbase
+brew install imagemagick
+brew install imlib2
+brew install iperf
+brew install jansson
+brew install jemalloc
+brew install jpeg
+brew install jq
+brew install krb5
+brew install lame
+brew install ldns
+brew install leptonica
+brew install lesspipe
+brew install libarchive
+brew install libass
+brew install libb2
+brew install libbluray
+brew install libcaca
+brew install libcbor
+brew install libcddb
+brew install libcdio
+brew install libde265
+brew install libebml
+brew install libev
+brew install libevent
+brew install libexif
+brew install libffi
+brew install libfido2
+brew install libheif
+brew install libiconv
+brew install libidn
+brew install libidn2
+brew install libimobiledevice
+brew install libmagic
+brew install libmatroska
+brew install libmetalink
+brew install libogg
+brew install libomp
+brew install libplist
+brew install libpng
+brew install libpq
+brew install libsamplerate
+brew install libsndfile
+brew install libsodium
+brew install libsoxr
+brew install libssh2
+brew install libtasn1
+brew install libtiff
+brew install libtool
+brew install libunistring
+brew install libusb
+brew install libusbmuxd
+brew install libvidstab
+brew install libvorbis
+brew install libvpx
+brew install libxml2
+brew install libyaml
+brew install libzip
+brew install little-cms2
+brew install lua
+brew install lz4
+brew install lzo
+brew install lzop
+brew install mas
+brew install masscan
+brew install mcrypt
+brew install media-info
+brew install mhash
+brew install miniupnpc
+brew install mitmproxy
+brew install mkvtoolnix
+brew install moreutils
+brew install mosh
+brew install mp4v2
+brew install mpfr
+brew install mplayer
+brew install mtr
+brew install namebench
+brew install nasm
+brew install ncurses
+brew install neofetch
+brew install neon
+brew install netcat
+brew install nethogs
+brew install netperf
+brew install ngrep
+brew install ninja
+brew install node
+brew install oniguruma
+brew install opencore-amr
+brew install openexr
+brew install openjdk
+brew install openjpeg
+brew install openldap
+brew install openssh
+brew install openssl@1.1
+brew install optipng
+brew install opus
+brew install p11-kit
+brew install p7zip
+brew install pandoc
+brew install pcre
+brew install pcre2
+brew install perl
+brew install php
+brew install php-code-sniffer
+brew install pigz
+brew install pipenv
+brew install pixman
 brew install pkg-config
+brew install pngcheck
+brew install pngquant
+brew install popt
+brew install protobuf
+brew install pstree
+brew install pugixml
+brew install pv
+brew install pwgen
+brew install python
+brew install python@3.8
+brew install rbenv
+brew install rclone
+brew install readline
+brew install rename
+brew install rpl
+brew install rsync
+brew install rtmpdump
+brew install rubberband
+brew install ruby-build
+brew install s-lang
+brew install screenresolution
+brew install sdl2
+brew install shared-mime-info
+brew install shellcheck
+brew install shfmt
+brew install smartmontools
+brew install snappy
+brew install speedtest-cli
+brew install speex
+brew install sphinx-doc
+brew install sqlite
+brew install srt
+brew install ssh-copy-id
+brew install subversion
+brew install svgo
+brew install swiftformat
+brew install sysbench
+brew install telnet
+brew install tesseract
+brew install testssl
+brew install texi2html
+brew install the_silver_searcher
 brew install thefuck
-brew install tldr
+brew install theora
+brew install tmux
+brew install trash
+brew install tree
+brew install ucl
+brew install unbound
+brew install unixodbc
+brew install unrar
+brew install upx
+brew install usbmuxd
+brew install utf8proc
+brew install vbindiff
+brew install wavpack
+brew install webkit2png
+brew install webp
+brew install wget
 brew install wrk
-brew install ykman
+brew install wxmac
+brew install x264
+brew install x265
+brew install xctool
+brew install xmlstarlet
+brew install xvid
+brew install xz
+brew install yasm
+brew install youtube-dl
+brew install zlib
+brew install zopfli
+brew install zstd
 ```
 
 ##### Install applications via Homebrew Cask
@@ -377,89 +621,160 @@ brew install ykman
 Seriously, barring the insertion of malicious code or lack of checksums (two things which should honestly scare me away of many), Cask is pretty useful. I'm choosing to be willfully ignorant, since broadcasting usage opens me up anyway, and this saves a lot of time.
 
 ```
-brew cask install adobe-digital-editions
-brew cask install alfred
-brew cask install calibre
-brew cask install cleanmymac
-brew cask install dbeaver-community
+brew cask install cakebrew
+brew cask install charles
+brew cask install coconutbattery
+brew cask install crunch
+brew cask install easyfind
+brew cask install java
+brew cask install platypus
+brew cask install postman
+brew cask install rar
+brew cask install suspicious-package
+brew cask install vagrant
+brew cask install visual-studio-code
+brew cask install whalebird
+brew cask install wireshark
 brew cask install dropbox
-brew cask install font-hack
-brew cask install font-hack-nerd-font
-brew cask install font-roboto
-brew cask install font-roboto-mono
-brew cask install font-source-code-pro
+brew cask install firefox
 brew cask install google-chrome
 brew cask install imageoptim
 brew cask install iterm2
-brew cask install nordvpn
 brew cask install qlcolorcode
 brew cask install qlmarkdown
-brew cask install qlprettypatch
 brew cask install quicklook-csv
 brew cask install quicklook-json
 brew cask install sequel-pro
 brew cask install signal
-brew cask install spectacle
 brew cask install sublime-text
-brew cask install the-unarchiver
 brew cask install transmit
 brew cask install vagrant
 brew cask install virtualbox
 brew cask install vlc
 brew cask install webpquicklook
-
-// Some of my maybe installs
-brew cask install arduino
-brew cask install balenaetcher
-brew cask install boostnote
 brew cask install owasp-zap
-brew cask install simplenote
-brew cask install steam
-brew cask install suspicious-package
-brew cask install telegram
-brew cask install thunderbird
-brew cask install zotero
+
+# maybe
+brew cask install adium
+brew cask install app-cleaner
+brew cask install archiver
+brew cask install the-unarchiver
+brew cask install asset-catalog-tinkerer
+brew cask install audio-hijack
+brew cask install avitools
+brew cask install backuploupe
+brew cask install bettertouchtool
+brew cask install boom-3d
+brew cask install caffeine
+brew cask install carbon-copy-cloner
+brew cask install cardhop
+brew cask install chicken
+brew cask install chronosync
+brew cask install cronnix
+brew cask install daisydisk
+brew cask install db-browser-for-sqlite
+brew cask install discord
+brew cask install divvy
+brew cask install etrecheckpro
+brew cask install farrago
+brew cask install fauxpas
+brew cask install filebot
+brew cask install fission
+brew cask install flux
+brew cask install franz
+brew cask install geektool
+brew cask install grandperspective
+brew cask install hammerspoon
+brew cask install handbrake
+brew cask install hex-fiend
+brew cask install iconizer
+brew cask install iexplorer
+brew cask install imagealpha
+brew cask install istat-menus5
+brew cask install istat-server
+brew cask install kaleidoscope
+brew cask install keybase
+brew cask install keyboard-cleaner
+brew cask install keyboard-maestro
+brew cask install launchcontrol
+brew cask install makemkv
+brew cask install marsedit
+brew cask install micro-snitch
+brew cask install mkvtools
+brew cask install mp4tools
+brew cask install mycrypto
+brew cask install namebench
+brew cask install netspot
+brew cask install nvalt
+brew cask install onyx
+brew cask install optimal-layout
+brew cask install pacifist
+brew cask install pdfpen
+brew cask install photosync
+brew cask install postico
+brew cask install progressive-downloader
+brew cask install radio-silence
+brew cask install screens-connect
+brew cask install script-debugger
+brew cask install sherlock
+brew cask install simpholders
+brew cask install sizeup
+brew cask install skype
+brew cask install smcfancontrol
+brew cask install soundsource
+brew cask install spotify
+brew cask install sqlpro-for-sqlite
+brew cask install subtools
+brew cask install superduper
+brew cask install teacode
+brew cask install textexpander
+brew cask install textmate
+brew cask install transmission
+brew cask install panic-unison
+brew cask install vanilla
+brew cask install versions
+brew cask install visual-studio-code
+brew cask install vyprvpn
+brew cask install wordservice
+brew cask install xld
+brew cask install xscope
+brew cask install yojimbo
+brew cask install zoomus
 ```
 
 ### Additional Command Line Installs
 #### NPM Tools
 ```
-npm install -g csslint
 npm install -g eslint
-npm install -g eslint-config-wordpress
+npm install -g generator-code
+npm install -g gitmoji-cli
+npm install -g grunt-cli
+npm install -g gulp
 npm install -g gulp-cli
-npm install -g how-2
+npm install -g html-minifier
 npm install -g imageoptim-cli
+npm install -g loadtest
+npm install -g loopback-cli
+npm install -g npm
+npm install -g npm-install-peers
+npm install -g opml-to-markdown
+npm install -g redis-commander
+npm install -g strip-ansi
+npm install -g svgexport
+npm install -g tslint
+npm install -g typescript
+npm install -g vtop-node10
 npm install -g prettier
 npm install -g prettier-stylelint
-npm install -g stylelint
-npm install -g stylelint-config-wordpress
-npm install -g stylelint-order
-npm install -g undollar
 ```
-
-#### Composer Tools
-```
-composer global require squizlabs/php_codesniffer
-composer global require wp-coding-standards/wpcs
-composer global require overtrue/phplint
-composer global require friendsofphp/php-cs-fixer
-```
-
 #### rbenv
 Which version, which gems?
-
-#### Oh My ZSH!
-- Install a fancy zsh framework for funtimes
-```
-sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-```
-- Make zsh the default shell for the current user with `chsh -s $(which zsh)`
-- Setup changes to the .zshrc file to config for our usage
+v2.6.6
+See gems.txt
 
 ### Dotfiles
 
-TODO
+TODO - make sure settings are correct for Catalina.
 
 #### Make some aliases
 My current zsh profile with my aliases is backed up with Mackup now, but just in case these are needed
@@ -480,18 +795,12 @@ alias gitpom="git push -u origin master"
 #### Misc Tools
 - [Has](https://github.com/kdabir/has) for checking dependencies and versions
 `git clone https://github.com/kdabir/has.git && cd has && make install`
-- With PHPCS and WPCS installed, we've gotta tell PHPCS where to find WPCS
-`phpcs --config-set installed_paths ~/.composer/vendor/wp-coding-standards/wpcs`
 
 
 ### VirtualBox, Vagrant, & VVV
 
 - Ensure that Virtual Box and Vagrant are installed
-- Install vagrant-hostupdater `vagrant plugin install vagrant-hostsupdater`
-- Clone VVV `git clone git://github.com/Varying-Vagrant-Vagrants/VVV.git vagrant-local`
-- Move to vagrant-local `cd vagrant-local`
 - Run our first Vagrant up and wait a long long time `vagrant up`
-- Look, at this point you probably need a coffee or something. Relax, you're doing great, and treat yourself to that caffeinated goodness.
 - Turn on [xDebug](https://github.com/Varying-Vagrant-Vagrants/VVV/wiki/Code-Debugging#turning-on-xdebug) with `vagrant ssh` then `xdebug_on`
 - Setup a command in sudoers to skip the password for `vagrant up, vagrant halt, vagrant reload` by using the command `sudo visudo` then entering the following at the end of the file, and exiting vi by typing esc, then `:wq`
 
@@ -504,6 +813,20 @@ Cmnd_Alias VAGRANT_HOSTSUPDATER_ADD = /bin/sh -c echo "*" >> /etc/hosts
 Cmnd_Alias VAGRANT_HOSTSUPDATER_REMOVE = /usr/bin/sed -i -e /*/ d /etc/hosts
 %admin ALL=(root) NOPASSWD: VAGRANT_EXPORTS_ADD, VAGRANT_NFSD, VAGRANT_EXPORTS_REMOVE, VAGRANT_HOSTSUPDATER_ADD, VAGRANT_HOSTSUPDATER_REMOVE
 ```
+### Hazel, Workflows, Scripts, Keyboard Maestro, Hammerspoon, GeekTool
+
+- Get all the settings
+
+### Keychain
+
+### Dev credentials
+
+### SequelPro favourites
+
+### File mounts
+
+### BetterTouchTool settings
+
 
 
 ### Set Up Applications
@@ -512,34 +835,9 @@ Cmnd_Alias VAGRANT_HOSTSUPDATER_REMOVE = /usr/bin/sed -i -e /*/ d /etc/hosts
 - Login to Dropbox and get files
 - Login to all active Slack teams
 - Make dev files that I use open in Sublime Text (things like .txt, .sh, .json)
-- Setup Spectacle shortcuts so they don't interfere with Chrome shortcuts
 - Load existing iTerm2 .plist file from Dropbox, most likely running `killall cfprefsd` with it closed to clear the cached file
-- I save custom scripts in Dropbox because I would probably lose them somehow otherwise. The files here have to be sourced, and the folder has to be added to the PATH environment variable. Both of those are accomplished with this portion of my `.zshrc` file:
-```
-# Add my scripts folder to the path
-PATH=$PATH:~/Dropbox/scripts
-# Source stuff!
-source ~/.zshrc
-
-for f in ~/Dropbox/scripts/zsh/*; do
-	if [[ $file == *.sh ]]
-	then
-		source "$f"
-	fi
-done
-```
 
 
-### Sublime Text 3
-- License Sublime Text and SFTP (license and instructions in email)
-- Symlink so I can open files in Sublime from the command line
-```
-ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
-```
-- Setup fzf to open the previewed file in Sublime Text 3 with ctrl+O shortcut
-```
-export FZF_DEFAULT_OPTS="--bind='ctrl-o:execute(code {})+abort'"
-```
 
 The below are currently negated by my use of PackageSync and Mackup, but for reference:
 - Install Package Control by opening Sublime Text, opening the command prompt with ctrl+`, and entering the installation script. It can be found at https://packagecontrol.io/installation, with the most recent script being:
@@ -551,74 +849,6 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 
 
 ### Gitting on with Git
-- Xcode and git are installed, right?
-- If so, running `xcode-select --install` will get you the prompts for the Xcode Command Line Tools
-- Set some defaults up.
-```
-git config --global user.name "Your Name"
-git config --global user.email "your@email.com"
-git config --global github.user githubusername
-git config --global push.default current
-git config --global core.editor "subl -w"
-git config --global core.pager "diff-so-fancy | less --tabs=4 -RFX"
-git config --global color.ui true
-git config --global color.diff-highlight.oldNormal    "red bold"
-git config --global color.diff-highlight.oldHighlight "red bold 52"
-git config --global color.diff-highlight.newNormal    "green bold"
-git config --global color.diff-highlight.newHighlight "green bold 22"
-```
-
-- I'm creating a git ignore based entirely on a suggestion from Carl Alexander's [Mac Setup Post](https://carlalexander.ca/2016-macbook-pro-setup/) `vi ~/.gitignore_global`
-
-The file consists of a wide variety of system files and packages that I never want to save to a git repo.
-```
-# compiled source #
-###################
-*.com
-*.class
-*.dll
-*.exe
-*.o
-*.so
-
-# Packages #
-############
-# it's better to unpack these files and commit the raw source
-# git has its own built in compression methods
-*.7z
-*.dmg
-*.gz
-*.iso
-*.jar
-*.rar
-*.tar
-*.zip
-
-# Logs and databases #
-######################
-*.log
-*.sql
-*.sqlite
-
-# OS generated files #
-######################
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# IDE files #
-#############
-/.idea
-*.sublime-project
-*.sublime-workspace
-```
-
-I then save that file and add it to global exclude those files:
-`git config --global core.excludesfile ~/.gitignore_global`
 
 - Check that keychain helper is installed with `git credential-osxkeychain` **Note:** if you installed git via HomeBrew, this is done for you. Skip to the `git config` step below.
 - If not installed, set that sucker up.

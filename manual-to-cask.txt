@@ -1,85 +1,85 @@
-adium
-app-cleaner
-archiver
-the-unarchiver
-asset-catalog-tinkerer
-audio-hijack
-avitools
-backuploupe
-bettertouchtool
-boom-3d
-caffeine
-carbon-copy-cloner
-cardhop
-chicken
-chronosync
-cronnix
-daisydisk
-db-browser-for-sqlite
-discord
-divvy
-etrecheckpro
-farrago
-fauxpas
-filebot
-fission
-flux
-franz
-geektool
-grandperspective
-hammerspoon
-handbrake
-hex-fiend
-iconizer
-iexplorer
-imagealpha
-istat-menus5
-istat-server
-kaleidoscope
-keybase
-keyboard-cleaner
-keyboard-maestro
-launchcontrol
-makemkv
-marsedit
-micro-snitch
-mkvtools
-mp4tools
-mycrypto
-namebench
-netspot
-nvalt
-onyx
-optimal-layout
-pacifist
-pdfpen
-photosync
-postico
-progressive-downloader
-radio-silence
-screens-connect
-script-debugger
-sherlock
-simpholders
-sizeup
-skype
-smcfancontrol
-soundsource
-spotify
-sqlpro-for-sqlite
-subtools
-superduper
-teacode
-textexpander
-textmate
-transmission
-panic-unison
-vanilla
-versions
-visual-studio-code
-vyprvpn
-wordservice
-xld
-xscope
-yojimbo
-zoomus
+brew cask install adium
+brew cask install app-cleaner
+brew cask install archiver
+brew cask install the-unarchiver
+brew cask install asset-catalog-tinkerer
+brew cask install audio-hijack
+brew cask install avitools
+brew cask install backuploupe
+brew cask install bettertouchtool
+brew cask install boom-3d
+brew cask install caffeine
+brew cask install carbon-copy-cloner
+brew cask install cardhop
+brew cask install chicken
+brew cask install chronosync
+brew cask install cronnix
+brew cask install daisydisk
+brew cask install db-browser-for-sqlite
+brew cask install discord
+brew cask install divvy
+brew cask install etrecheckpro
+brew cask install farrago
+brew cask install fauxpas
+brew cask install filebot
+brew cask install fission
+brew cask install flux
+brew cask install franz
+brew cask install geektool
+brew cask install grandperspective
+brew cask install hammerspoon
+brew cask install handbrake
+brew cask install hex-fiend
+brew cask install iconizer
+brew cask install iexplorer
+brew cask install imagealpha
+brew cask install istat-menus5
+brew cask install istat-server
+brew cask install kaleidoscope
+brew cask install keybase
+brew cask install keyboard-cleaner
+brew cask install keyboard-maestro
+brew cask install launchcontrol
+brew cask install makemkv
+brew cask install marsedit
+brew cask install micro-snitch
+brew cask install mkvtools
+brew cask install mp4tools
+brew cask install mycrypto
+brew cask install namebench
+brew cask install netspot
+brew cask install nvalt
+brew cask install onyx
+brew cask install optimal-layout
+brew cask install pacifist
+brew cask install pdfpen
+brew cask install photosync
+brew cask install postico
+brew cask install progressive-downloader
+brew cask install radio-silence
+brew cask install screens-connect
+brew cask install script-debugger
+brew cask install sherlock
+brew cask install simpholders
+brew cask install sizeup
+brew cask install skype
+brew cask install smcfancontrol
+brew cask install soundsource
+brew cask install spotify
+brew cask install sqlpro-for-sqlite
+brew cask install subtools
+brew cask install superduper
+brew cask install teacode
+brew cask install textexpander
+brew cask install textmate
+brew cask install transmission
+brew cask install panic-unison
+brew cask install vanilla
+brew cask install versions
+brew cask install visual-studio-code
+brew cask install vyprvpn
+brew cask install wordservice
+brew cask install xld
+brew cask install xscope
+brew cask install yojimbo
+brew cask install zoomus
