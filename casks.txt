@@ -1,120 +1,32 @@
-cakebrew
-charles
-coconutbattery
-crunch
-easyfind
-java
-platypus
-postman
-rar
-suspicious-package
-vagrant
-visual-studio-code
-whalebird
-wireshark
-dropbox
-firefox
-google-chrome
-imageoptim
-iterm2
-qlcolorcode
-qlmarkdown
-quicklook-csv
-quicklook-json
-sequel-pro
-signal
-sublime-text
-transmit
-vagrant
-virtualbox
-vlc
-webpquicklook
-owasp-zap
-
-
-visual-studio-code
-adium
-app-cleaner
-archiver
-the-unarchiver
-asset-catalog-tinkerer
-audio-hijack
-avitools
-backuploupe
-bettertouchtool
-boom-3d
-caffeine
-carbon-copy-cloner
-cardhop
-chicken
-chronosync
-cronnix
-daisydisk
-db-browser-for-sqlite
-discord
-divvy
-etrecheckpro
-farrago
-fauxpas
-filebot
-fission
-flux
-franz
-geektool
-grandperspective
-hammerspoon
-handbrake
-hex-fiend
-iconizer
-iexplorer
-imagealpha
-istat-menus5
-istat-server
-kaleidoscope
-keybase
-keyboard-cleaner
-keyboard-maestro
-launchcontrol
-makemkv
-marsedit
-micro-snitch
-mkvtools
-mp4tools
-mycrypto
-namebench
-netspot
-nvalt
-onyx
-optimal-layout
-pacifist
-pdfpen
-photosync
-postico
-progressive-downloader
-radio-silence
-screens-connect
-script-debugger
-sherlock
-simpholders
-sizeup
-skype
-smcfancontrol
-soundsource
-spotify
-sqlpro-for-sqlite
-subtools
-superduper
-teacode
-textexpander
-textmate
-transmission
-panic-unison
-vanilla
-versions
-visual-studio-code
-vyprvpn
-wordservice
-xld
-xscope
-yojimbo
-zoomus
+brew cask install cakebrew
+brew cask install charles
+brew cask install coconutbattery
+brew cask install crunch
+brew cask install easyfind
+brew cask install java
+brew cask install platypus
+brew cask install postman
+brew cask install rar
+brew cask install suspicious-package
+brew cask install vagrant
+brew cask install visual-studio-code
+brew cask install whalebird
+brew cask install wireshark
+brew cask install dropbox
+brew cask install firefox
+brew cask install google-chrome
+brew cask install imageoptim
+brew cask install iterm2
+brew cask install qlcolorcode
+brew cask install qlmarkdown
+brew cask install quicklook-csv
+brew cask install quicklook-json
+brew cask install sequel-pro
+brew cask install signal
+brew cask install sublime-text
+brew cask install transmit
+brew cask install vagrant
+brew cask install virtualbox
+brew cask install vlc
+brew cask install webpquicklook
+brew cask install owasp-zap
