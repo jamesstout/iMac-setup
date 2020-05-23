@@ -10,6 +10,12 @@ If there are steps that you've noticed that I'm clearly missing, please let me k
 
 ## Before Reformat
 
+Make clone on CCC.
+
+Crypto wallets ... where are they?
+
+Copy HDD2 to NAS?
+
 I generally am doing this because I'm reformatting an old computer because I have a problem (usually the computer, always me). I sometimes forget that there are more than files to backup, since not everything syncs perfectly. Here's what I need to remember to sync and where they live.
 
 * Chrome - OneTab should be bookmarked, and the rest Chrome syncs itself
@@ -776,22 +782,6 @@ See gems.txt
 
 TODO - make sure settings are correct for Catalina.
 
-#### Make some aliases
-My current zsh profile with my aliases is backed up with Mackup now, but just in case these are needed
-
-_A few of these came from this post by Remy Sharp, [CLI: Improved](https://remysharp.com/2018/08/23/cli-improved) which is definitely worth checking out._
-```
-alias zshconfig="mate ~/.zshrc"
-alias ohmyzsh="mate ~/.oh-my-zsh"
-alias ping='prettyping --nolegend'
-alias preview="fzf --preview 'bat --color \"always\" {}'"
-alias du="ncdu --color dark -rr -x --exclude .git"
-alias gits="git status"
-alias gita="git add ."
-alias gitc="git commit -m"
-alias gitpom="git push -u origin master"
-```
-
 #### Misc Tools
 - [Has](https://github.com/kdabir/has) for checking dependencies and versions
 `git clone https://github.com/kdabir/has.git && cd has && make install`
@@ -826,6 +816,8 @@ Cmnd_Alias VAGRANT_HOSTSUPDATER_REMOVE = /usr/bin/sed -i -e /*/ d /etc/hosts
 ### File mounts
 
 ### BetterTouchTool settings
+
+### VS Code settings
 
 
 
