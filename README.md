@@ -811,7 +811,11 @@ Cmnd_Alias VAGRANT_HOSTSUPDATER_REMOVE = /usr/bin/sed -i -e /*/ d /etc/hosts
 
 ### Dev credentials
 
+Done
+
 ### SequelPro favourites
+
+
 
 ### File mounts
 
@@ -819,6 +823,9 @@ Cmnd_Alias VAGRANT_HOSTSUPDATER_REMOVE = /usr/bin/sed -i -e /*/ d /etc/hosts
 
 ### VS Code settings
 
+GPG
+Ruby
+Gems
 
 
 ### Set Up Applications
